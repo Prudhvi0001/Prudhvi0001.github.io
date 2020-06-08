@@ -7,6 +7,6 @@ main:
   - title: "Blog"
     url: /year-archive/
   - title: "Projects"
-    url: /collection-archive/
+    url: /Projects/
   - title: "Resources"
     url: /sitemap/
