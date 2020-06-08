@@ -250,7 +250,7 @@ visualize_leaves(cond=[1, 0, 0, 0], cond_cols=["healthy"])
 ```
 
 
-![png](/images/plant/output_16_0.png)
+![image info](/Images/plant/output_16_0.png)
 
 
 
