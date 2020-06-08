@@ -6,6 +6,7 @@ author_profile: true
 comments: true
 ---
 
+Most of my Blogs are technical and for my own reference. 
 Most of my blogs are technical blogs written mainly for my own reference. I'd be happy if any of you find them useful too.
 
 
