@@ -1,12 +1,12 @@
 # main links
 main:
-#   - title: "Quick-Start Guide"
-#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /About/
   - title: "Blogs"
     url: /Blogs/
+  - title: "Resume"
+    url: "/assets/Resume.pdf"
   - title: "Projects"
-    url: /Projects/
+    url: "https://github.com/Prudhvi0001"
   - title: "Resources"
-    url: /Resources/
+    url: "https://github.com/Prudhvi0001/Data-science-best-resources"

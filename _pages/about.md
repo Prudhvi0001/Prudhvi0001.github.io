@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "About"
+subtitle : Problem Solver | Coder | Artist(Hobby)
 permalink: /About/
 comments: true
 author_profile: true
