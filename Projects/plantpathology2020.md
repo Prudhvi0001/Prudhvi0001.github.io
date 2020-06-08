@@ -574,7 +574,7 @@ visualize_leaves(cond=[1, 0, 0, 0], cond_cols=["healthy"])
 ```
 
 
-![png](output_16_0.png)
+![png](/assets/images/plant/output_16_0.png)
 
 
 
@@ -583,7 +583,7 @@ visualize_leaves(cond=[0, 1, 0, 0], cond_cols=["scab"])
 ```
 
 
-![png](output_17_0.png)
+![png](/assets/images/plant/output_17_0.png)
 
 
 
@@ -592,7 +592,7 @@ visualize_leaves(cond=[0, 0, 1, 0], cond_cols=["rust"])
 ```
 
 
-![png](output_18_0.png)
+![png](/assets/images/plant/output_18_0.png)
 
 
 
@@ -601,7 +601,7 @@ visualize_leaves(cond=[0, 0, 0, 1], cond_cols=["multiple_diseases"])
 ```
 
 
-![png](output_19_0.png)
+![png](/assets/images/plant/output_19_0.png)
 
 
 
@@ -828,15 +828,15 @@ edge_and_cut(train_images[5])
 ```
 
 
-![png](output_28_0.png)
+![png](/assets/images/plant/output_28_0.png)
 
 
 
-![png](output_28_1.png)
+![png](/assets/images/plant/output_28_1.png)
 
 
 
-![png](output_28_2.png)
+![png](/assets/images/plant/output_28_2.png)
 
 
 
@@ -860,15 +860,15 @@ invert(train_images[5])
 ```
 
 
-![png](output_30_0.png)
+![png](/assets/images/plant/output_30_0.png)
 
 
 
-![png](output_30_1.png)
+![png](/assets/images/plant/output_30_1.png)
 
 
 
-![png](output_30_2.png)
+![png](/assets/images/plant/output_30_2.png)
 
 
 
@@ -892,15 +892,15 @@ conv(train_images[5])
 ```
 
 
-![png](output_32_0.png)
+![png](/assets/images/plant/output_32_0.png)
 
 
 
-![png](output_32_1.png)
+![png](/assets/images/plant/output_32_1.png)
 
 
 
-![png](output_32_2.png)
+![png](/assets/images/plant/output_32_2.png)
 
 
 
@@ -922,15 +922,15 @@ blur(train_images[3])
 ```
 
 
-![png](output_34_0.png)
+![png](/assets/images/plant/output_34_0.png)
 
 
 
-![png](output_34_1.png)
+![png](/assets/images/plant/output_34_1.png)
 
 
 
-![png](output_34_2.png)
+![png](/assets/images/plant/output_34_2.png)
 
 
 ## Modelling
@@ -1105,7 +1105,7 @@ SVG(tf.keras.utils.model_to_dot(Model(model.layers[0].input, model.layers[0]
 
 
 
-![svg](output_49_0.svg)
+![svg](/assets/images/plant/output_49_0.svg)
 
 
 
