@@ -2,8 +2,17 @@
 title:  "Design your First Custom Neural Network from scratch Using PyTorch"
 date:   2020-06-12
 layout: single
+classes: wide
 author_profile: true
 comments: true
+header:
+    overlay_image: "/assets/tape.gif"
+    overlay_excerpt_color: "#333"
+    show_overlay_excerpt: false
+    actions:
+    - label: "GitHub Code"
+      url: "https://github.com/Prudhvi0001/MNIST/blob/master/MNIST_Pytorch.ipynb"
+
 ---
 
 ### Design your First Custom Neural Network from scratch Using PyTorch
