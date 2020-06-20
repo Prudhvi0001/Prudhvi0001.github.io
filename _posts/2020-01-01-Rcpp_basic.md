@@ -1,6 +1,6 @@
 ---
 title:  "Introduction to Rcpp: making R much much faster"
-date:   2016-11-29
+date:   2020-01-01
 layout: single
 author_profile: true
 comments: true

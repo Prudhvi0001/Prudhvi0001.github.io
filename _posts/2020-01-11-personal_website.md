@@ -1,6 +1,6 @@
 ---
 title:  "Build your own website (with Jekyll and Minimal-mistakes theme)"
-date:   2017-8-17
+date:   2019-12-12
 layout: single
 author_profile: true
 comments: true
