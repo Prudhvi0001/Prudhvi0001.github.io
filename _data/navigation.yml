@@ -7,6 +7,7 @@ main:
   - title: "Resume"
     url: "/assets/Resume.pdf"
   - title: "Projects"
-    url: "https://github.com/Prudhvi0001"
+    url: "/Projects/"
+    # url: "https://github.com/Prudhvi0001"
   - title: "Resources"
     url: /Resources/
