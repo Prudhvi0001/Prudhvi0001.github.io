@@ -117,7 +117,7 @@ You can also `Bootstrap`  parameter to choose the samples from data
 
 Play with numbers of tree (`n_estimators`) until you get a good model or use [Grid Search](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV) to find optimal parameters
 
-```Python
+```python
 m = RandomForestClassifier(n_estimators=10, n_jobs=-1)
 m.fit(x_train, y_train)
 print_score(m)
