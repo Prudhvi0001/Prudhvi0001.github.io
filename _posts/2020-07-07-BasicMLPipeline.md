@@ -11,7 +11,7 @@ header:
 
 
 
-For Code Check out <a href="https://www.kaggle.com/poonaml/titanic-survival-prediction-end-to-end-ml-pipeline" target="_blank">Link</a>
+To Understand the ML pipeline in an Interactive way check out the [**Explorer**](https://shrouded-harbor-01593.herokuapp.com) App.
 
 # Get the Status of Data
 ### Libraries: Pandas, NumPy Etc.
