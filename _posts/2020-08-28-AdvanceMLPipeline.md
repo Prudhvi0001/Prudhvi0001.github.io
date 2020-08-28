@@ -56,7 +56,7 @@ No matter from where you or your team collects the data there might be some nois
 
 Although it is not intresting to do but it is useful to produce intresting results. Becoz real data doesn't consists of numerical and categorical features it consists of garbage and others [Indolence](https://www.google.com/search?client=safari&rls=en&q=indolence&ie=UTF-8&oe=UTF-8).
 
-Some Handy Non Popular Data Cleaning Tools: [PrettyPandas](https://github.com/HHammond/PrettyPandas) | [Tabulate](https://pypi.org/project/tabulate/) |[Scrubadub](https://scrubadub.readthedocs.io/en/stable/index.html) |[ftfy](https://github.com/LuminosoInsight/python-ftfy) |[Link for More](https://mode.com/blog/python-data-cleaning-libraries/)
+###### Some Handy Non Popular Data Cleaning Tools: [PrettyPandas](https://github.com/HHammond/PrettyPandas) ,  [Tabulate](https://pypi.org/project/tabulate/) , [Scrubadub](https://scrubadub.readthedocs.io/en/stable/index.html) , [ftfy](https://github.com/LuminosoInsight/python-ftfy) , [Link for More](https://mode.com/blog/python-data-cleaning-libraries/)
 
 Here is an elobrated article by [Robert R.F. DeFilippi](https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3) and [Real Python](https://realpython.com/python-data-cleaning-numpy-pandas/) on how to get started do check it out.
 
@@ -108,8 +108,8 @@ You don't want hurt your model right. If you data contains missing values or out
 
 Things to consider:
 
-- Imputing missing values with mean, mode Or using non missing values to predict missing values or [Dig Deep](http://www.stat.columbia.edu/~gelman/arm/missing.pdf) | [1](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) | [2](https://machinelearningmastery.com/statistical-imputation-for-missing-values-in-machine-learning/)
-- Taking Care of Outliers by removing or [Dig Deep](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba) | [1](https://cxl.com/blog/outliers/) | [2](https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html) 
+- Imputing missing values with mean, mode Or using non missing values to predict missing values or [Dig Deep](http://www.stat.columbia.edu/~gelman/arm/missing.pdf) ,  [Link](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) ,  [Link](https://machinelearningmastery.com/statistical-imputation-for-missing-values-in-machine-learning/)
+- Taking Care of Outliers by removing or [Dig Deep](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)  [Link](https://cxl.com/blog/outliers/) , [Link](https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html) 
 - Finding Correlated features Etc..
 
 Now That part the you have been waiting so long for Selecting the model that you want to Run.
@@ -155,7 +155,7 @@ Tips for Feature Engineering:
 - Scaling the Numerical features so that model find local minima easily.
 - Binning column data into groups.(It also useful for handling outliers)
 
-Dig Deep - [ML Mastery](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/) | [Medium](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114) | [Kaggle](https://www.kaggle.com/search?q=feature+engineering) | [Elite](https://elitedatascience.com/feature-engineering) | [Elite2](https://elitedatascience.com/feature-engineering-best-practices)
+Dig Deep - [ML Mastery](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/) ,  [Medium](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114) ,  [Kaggle](https://www.kaggle.com/search?q=feature+engineering) ,  [Elite](https://elitedatascience.com/feature-engineering) ,  [Elite2](https://elitedatascience.com/feature-engineering-best-practices)
 
 *WOOOOH......Atlast! Finally ready for training huh huh **Sort of**:*
 
@@ -171,7 +171,7 @@ Steps for Model Training:
 - **Bias** and **Variance:** 
   - Underfitting = Low variance and High Bias = Simple Model
   - Over Fitting = Low Bias and High variance = Complex Model
-  - [Hyparmeter](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568) tuning helps you balance the model bias and variance.
+  - [Hyparmeter Tuning](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568) helps you balance the model bias and variance.
 
 You Did IT........
 
@@ -191,7 +191,7 @@ There are different metrics to evaluate your model, sometimes you may have to co
 
 ##### Regression Metrics:
 
-- MSE, RMSE, $R^2$ , Adjusted $R^2$  [Dig Deep](https://towardsdatascience.com/regression-an-explanation-of-regression-metrics-and-what-can-go-wrong-a39a9793d914) | [Interveiw Prespective](https://towardsdatascience.com/metrics-to-understand-regression-models-in-plain-english-part-1-c902b2f4156f)
+- MSE, RMSE, $R^2$ , Adjusted $R^2$  [Dig Deep](https://towardsdatascience.com/regression-an-explanation-of-regression-metrics-and-what-can-go-wrong-a39a9793d914) ,  [Interveiw Prespective](https://towardsdatascience.com/metrics-to-understand-regression-models-in-plain-english-part-1-c902b2f4156f)
 
 ##### Classification Metrics:
 
