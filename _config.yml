@@ -5,14 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+#---------------------------- RUN FILE Localy ------------------------------#
+#                       bundle exec jekyll serve                            #
+
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+# theme                    : "jekyll-theme-hacker"
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,10 +25,10 @@ title_separator          : "-"
 subtitle                 : #"Dream Big..✌️" # site tagline that appears below site title in masthead
 name                     : "Prudhvi Vajja"
 description              : "Data Science Grad @IUB, Problem Solver"
-url                      : "https://prudhvi0001.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://PrudhviVajja.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/jump.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : #"/assets/images/jump.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo3.png" #"/assets/images/jump.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Star Boy®" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -100,7 +104,9 @@ author:
   email            : v.prudhvi0001@gmail.com
   github           : "Prudhvi0001"
   linkedin         : "prudhvi-vajja-22079610b"
+  medium           : "Star_Boy"
   facebook         : "prudhvivajja"
+  medium           : "Star_Boy"
   kaggle           : "PrudhviVajja"
 
 
@@ -135,12 +141,13 @@ footer:
       url: "https://www.facebook.com/google.it.b"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Prudhvi0001"
+      url: "https://github.com/PrudhviVajja"
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/prudhvivajja"
-#     - label: "GitLab"
-#       icon: "fab fa-fw fa-gitlab"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@Star_Boy"
       # url:
 #     - label: "Bitbucket"
 #       icon: "fab fa-fw fa-bitbucket"

@@ -13,11 +13,11 @@ header:
 
 To Understand the ML pipeline in an Interactive way check out the [**Explorer**](https://shrouded-harbor-01593.herokuapp.com) App.
 
-😱: There was a time where I thought ML pipelines are something similar to OOPS in Coding languages which we have to learn to code ml models in a particular way, But that's not True at all Rather Pipelines are just a thought process on how to think and organize your ML Models. for better debugging and understading why the model actually works In this Blog let me explain you the Nuts and Bolts of ML Pipeline so that you don't have to worry about it anymore.
+😱: There was a time where I thought ML pipelines are something similar to OOPS in Coding languages which we have to learn to code ml models in a particular way, But that's not True at all Rather Pipelines are just a thought process on how to think and organize your ML Models. for better debugging and understanding why the model actually works In this Blog let me explain you the Nuts and Bolts of ML Pipeline so that you don't have to worry about it anymore.
 
 Although ML pipelines are easy to understand it takes weeks or months for a company to come up with a ML Pipeline that meets the requirments Let us see why?
 
-*Before you strat diving in, building models and predicting the future ask yourself these questions.*
+*Before you start diving in, building models and predicting the future ask yourself these questions.*
 
 *Or step-1 of a ML pipeline*
 

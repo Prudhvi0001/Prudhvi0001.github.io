@@ -21,7 +21,7 @@ header:
 
 **Inspiration**: [Jeremy Howard fastai Course](http://course18.fast.ai/lessonsml1/lessonsml1.html)
 
-> Whether you need to classify a object or predict a continues outcome or even an cluster unsupervised data Random Forests offers you a base line model to test your results sometimes even a better one than most popular algorithm.
+> Whether you need to classify an object or predict a continues outcome or even a cluster unsupervised data Random Forests offers you a base line model to test your results sometimes even a better one than the most popular algorithm.
 
 With some of the perks including:
 
@@ -189,7 +189,7 @@ Inorder to acheive this we will use:
 
 `min_samples_leaf`  :  This will limit the number of leaf nodes in a tree which intern reduces overfitting and therefore predictions are made using more number of estimators reducing volatility of the model.
 
-`max_features`  : Along with randomizing the data row-wise for each tree max_features limits the number of features for each tree ,which randomizes the model furthur and reduces bias.
+`max_features`  : Along with randomizing the data row-wise for each tree max_features limits the number of features for each tree ,which randomizes the model further and reduces bias.
 
 ![Sklearn](/assets/images/RandomForest/max_features.png)
 
