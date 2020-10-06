@@ -156,7 +156,7 @@ git pull minimal master
 	- move your `_pages` and `_posts` folder to here
 
 - Push your customized version online:
-	Create the `username.github.io` repository as mensioned previously.
+	Create the `username.github.io` repository as mentioned previously.
 	
 ```bash
 # add your github repository to remote
